@@ -19,10 +19,10 @@
                 <h1>{pagetitle}</h1>
 				<div class="container">
 					<div class="row">
-						<div class="col-sm-6 col-lg-6 col-xs-6">
+						<div class="span6">
 							{leftside}
 						</div>
-						<div class="col-sm-6 col-lg-6 col-xs-6">
+						<div class="span6">
 							{rightside}
 						</div>
 					</div>
