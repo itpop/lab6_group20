@@ -1,4 +1,4 @@
-<div class="alert alert-info">{remaining_tasks} tasks are left to do!</div>
+<h3>Tasks by Category</h3>
 
 <table class="table">
 	<tr>
